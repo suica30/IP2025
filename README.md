@@ -2,13 +2,11 @@
 
 ## HW1
 
-![Video 1](https://raw.githubusercontent.com/suica30/IP2025/refs/heads/main/assets/hw1.mp4)
-
+https://github.com/user-attachments/assets/b8ea6820-7c47-4f16-8512-5a7dda6a9619
 
 ## HW2
 
-![Video 2](https://raw.githubusercontent.com/suica30/IP2025/refs/heads/main/assets/hw2.mp4)
-
+https://github.com/user-attachments/assets/6b6c2ea4-8eee-4d81-9f43-d5665e42bdbd
 
 ## HW3
 
